@@ -15,23 +15,23 @@ A cross-platform chat application that leverages Large Language Models (LLMs) wi
 
 **Frontend:**
 
-Flutter 3.18+
+*Flutter 3.18+
 
-Dart 3.7+
+*Dart 3.7+
 
-HTTP for API communication
+*HTTP for API communication
 
-Provider for state management
+*Provider for state management
 
 **Backend:**
 
-Python 3.10+
+*Python 3.10+
 
-Flask
+*Flask
 
-Transformers (Hugging Face)
+*Transformers (Hugging Face)
 
-GPT-2 model (default)
+*GPT-2 model (default)
 
 **📦 Project Structure:**
 
@@ -55,11 +55,11 @@ llm-chat-app/
 
 **Prerequisites**
 
-Flutter SDK
+*Flutter SDK
 
-Python 3.10+
+*Python 3.10+
 
-Git
+*Git
 
 **Installation:**
 
@@ -78,17 +78,18 @@ python llm_flask_api.py
 cd client
 flutter pub get
 flutter run
+
 **🌟 Future Enhancements:**
 
-User authentication
+*User authentication
 
-Conversation history
+*Conversation history
 
-Multi-LLM support
+*Multi-LLM support
 
-Voice input/output
+*Voice input/output
 
-File upload processing
+*File upload processing
 
 **🤝 Contributing:**
 
