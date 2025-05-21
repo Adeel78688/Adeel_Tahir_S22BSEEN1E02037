@@ -68,7 +68,9 @@ llm-chat-app/
 **bash**
 
 cd server
+
 pip install -r requirements.txt
+
 python llm_flask_api.py
 
 **2.Frontend Setup:**
@@ -76,7 +78,9 @@ python llm_flask_api.py
 **bash**
 
 cd client
+
 flutter pub get
+
 flutter run
 
 **🌟 Future Enhancements:**
